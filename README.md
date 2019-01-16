@@ -2,7 +2,7 @@
 
 This project was done to refine my studies.
 
-![alt text](https://imgur.com/9YCqDCs)
+![alt text](https://i.imgur.com/9YCqDCs.png)
 
 ## Getting Started
 
